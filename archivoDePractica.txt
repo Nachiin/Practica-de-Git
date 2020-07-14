@@ -11,7 +11,8 @@ cat sirve para abrir el archivo en git
 log mostrar que version de cambios hay, fecha, quien lo realizo
 show me muestra todo lo anterio sumandole con rojo como estaba antes del cambio y con verde los cambios realizados
 
-importante siempre ingresar un mensaje, si me olvido ponerlo con control i  y guardar con control shift z z 
+importante siempre ingresar un mensaje, si me olvido ponerlo con control i  y guardar con esc shift z z 
 
------------------------------------------------------------------------------
-ñlonkfdkjfsbbgsdbgskjdgbskdjgsd,vcsd c
+git reset --hard (version) vuelve toooodddoo a la version elejida, importante borra todas las versiones posteriores a esa version, tener mucho cuidado
+
+git diff (version)  (otraVersion)  me compara ambas versiones y me muestran las diferencias entre ellas.
