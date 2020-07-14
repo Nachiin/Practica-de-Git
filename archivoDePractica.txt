@@ -4,3 +4,14 @@
 Este archivo va a servir como practica para que practique git
 
 ira cambiando a medida que vaya avanzando con mis clases de git en platzi
+
+-----------------------------------------------------------------------------
+
+cat sirve para abrir el archivo en git
+log mostrar que version de cambios hay, fecha, quien lo realizo
+show me muestra todo lo anterio sumandole con rojo como estaba antes del cambio y con verde los cambios realizados
+
+importante siempre ingresar un mensaje, si me olvido ponerlo con control i  y guardar con control shift z z 
+
+-----------------------------------------------------------------------------
+ñlonkfdkjfsbbgsdbgskjdgbskdjgsd,vcsd c
