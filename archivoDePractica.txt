@@ -1,0 +1,6 @@
+                                    Practica de git
+                                ------------------------
+
+Este archivo va a servir como practica para que practique git
+
+ira cambiando a medida que vaya avanzando con mis clases de git en platzi
