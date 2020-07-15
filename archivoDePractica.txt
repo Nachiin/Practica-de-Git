@@ -36,3 +36,8 @@ git remote add  (direccion) crea un vinculo entre el repositorio local con el re
 git push deDonde ADonde  -> git push origin master -> actualiza el repositorio local con lo nuevo del remoto
 git pull origin master -> actualiza el repositorio remmoto con lo nuevo del local
 git pull origin master --allow-unrelated-histories       obliga a fusionar la rama remota con la local
+
+
+--------------------------------------------------------------------
+
+agregar aca lo de las llaves publicas y privadas
